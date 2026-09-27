@@ -1,50 +1,57 @@
-# Day 1 - Python Fundamentals
+# Day 2 - Python Conditionals and Loops
 
 ## Objective
 
-Build a strong foundation in Python programming for the AI Engineer roadmap.
+Learn how to make decisions and repeat operations in Python using conditional statements and loops.
 
 ## Topics Learned
 
-* Python environment setup
-* Python 3.13
-* VS Code
-* Kaggle
-* GitHub
-* `print()`
-* Variables
-* Data types
-* Arithmetic operators
-* User input
-* Type conversion
-* Basic Python programming
+* Comparison operators
+* Boolean values
+* Logical operators
+* `if`
+* `elif`
+* `else`
+* `for` loops
+* `while` loops
+* `range()`
+* Loop control and repetition
 
 ## Practice Programs
 
-* `hello.py`
-* `variables.py`
-* `calculator.py`
-* `student_profile.py`
+* `age_checker.py`
+* `grade_calculator.py`
+* `even_odd.py`
+* `multiplication_table.py`
+* Number guessing game using a `while` loop
 
 ## Mini Project
 
-### Student Profile
+### Number Guessing Game
 
-Created a Python program that collects and displays basic student information using variables, input, and type conversion.
+Created a Python number guessing game using:
 
-## Learning Resource
+* `while` loop
+* Conditional statements
+* User input
+* Comparison operators
+* Random numbers
 
-* Kaggle Python course
-* Python documentation
+## GitHub
+
+Day 2 programs were uploaded to GitHub.
+
+### Commit
+
+`Completed Day 2 - Python conditionals and loops`
 
 ## Skills Gained
 
-* Writing basic Python programs
-* Working with variables and data types
-* Taking user input
-* Performing calculations
-* Using GitHub to store Python projects
+* Writing conditional logic
+* Using loops
+* Building interactive Python programs
+* Solving programming problems using logic
 
 ## Status
 
-✅ Day 1 Completed
+✅ Day 2 Completed
